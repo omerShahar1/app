@@ -84,10 +84,13 @@
 ## איך מתחילים לעבוד עם App Inventor?
 
 1. נכנסים לאתר:  
-   **[appinventor.mit.edu](https://appinventor.mit.edu)**  
-2. לוחצים על **Create Apps** ומתחברים עם חשבון Google.  
-3. בוחרים: **Projects → Start new project** ונותנים שם לפרויקט.  
-4. מתחילים לעבוד ב־`Designer` (עיצוב המסך) וב־`Blocks` (בניית הלוגיקה).
+   **[appinventor.mit.edu](https://appinventor.mit.edu)**
+
+   **[למי שאין אימייל](https://login.appinventor.mit.edu/codelogin)**
+   
+3. לוחצים על **Create Apps** ומתחברים עם חשבון Google.  
+4. בוחרים: **Projects → Start new project** ונותנים שם לפרויקט.  
+5. מתחילים לעבוד ב־`Designer` (עיצוב המסך) וב־`Blocks` (בניית הלוגיקה).
 
 במהלך הקורס המורה ינחה צעד־אחר־צעד, והדוגמאות מהשיעור יופיעו גם כאן במאגר.
 
